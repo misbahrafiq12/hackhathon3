@@ -4,6 +4,7 @@ import Cards from "../components/Cards";
 import Link from "next/link";
 import Categories from '../components/Categories'
 import CarCard from "../components/CarCart";
+// import CardItems from "../components/CardItems";
 import Image from "next/image";
 import DetailCard from "../components/DetailCard";
 import Reviews from '../components/Reviews'
